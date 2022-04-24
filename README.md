@@ -10,7 +10,7 @@ Affiliation : [here](http://www.th.phys.titech.ac.jp/Nuclth/Nuclear_Hadron_Physi
 
 ## <u>Contents</u>
 * My Julia codes
-* My notes
+* My notes -> URL
   * Field theory
   * Renormalization group
   * Instantons
