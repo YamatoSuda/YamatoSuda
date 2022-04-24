@@ -10,11 +10,15 @@ Affiliation : [here](http://www.th.phys.titech.ac.jp/Nuclth/Nuclear_Hadron_Physi
 
 ## <u>Contents</u>
 * My Julia codes
-* My notes -> URL
-  * Field theory
-  * Renormalization group
-  * Instantons
-  * About research
+* My notes : [Link to Notes](https://github.com/YamatoSuda/Notes)
+
+  詳しい内容についての説明は上のリンク先の `README.md` を参照してください．アップしてあるノートは以下のものです．
+
+  * 解析力学についてのノート
+  * 基礎数学についてのノート
+  * インスタントンについてのノート
+  * 場の理論についてのノート
+  * 学部の卒論
 * Others
 
 ## <u>Comment</u>
