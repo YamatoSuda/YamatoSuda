@@ -1,28 +1,78 @@
-# This is Yamato's GitHub page
+# Yamato Suda
 
-## <u>Interest</u>
-Mathematical physics, QCD physics, Hadron physics, Particle physics and so on.
+*Recording what I have studied, thought, and learned.* 
 
-## <u>About me</u>
-Affiliation : [Nuclear Hadron Physics Group in Science Tokyo](http://www.th.phys.titech.ac.jp/Nuclth/jido/Top_page.html)
+#### Table of Contents
+- About
+- Research (Physics)
+- Reading 
+- Thoughts
+- Contact
 
-## <u>Contents</u>
-* My Julia codes
-* My notes : [Link to Notes](https://github.com/YamatoSuda/Notes)
+## About
+I studied theoretical physics, focusing on non-perturbative aspect of QCD, such as dynamical chiral symmetry breaking and the axial anomaly.
 
-  詳しい内容についての説明は上のリンク先の `README.md` を参照してください．アップしてあるノートは以下のものです．
+This page serves as a personal archives of my reserach, thoughts, and ongoing intellectual interests. 
 
-  * 解析力学についてのノート
-  * 基礎数学についてのノート
-  * インスタントンについてのノート
-  * 場の理論についてのノート
-  * 学部の卒論
-  * 修士の修論（準備中）
-* Others
+- Affiliation: [Nuclear Hadron Physics Group in Science Tokyo](http://www.th.phys.titech.ac.jp/Nuclth/jido/Top_page.html)
 
-## <u>Comment</u>
-If you are interested, please do not hesitate to contact me.
+## Research (Physics) 
 
+Physics has shaped the way I think and approach problems. The materials below are part of my academic background and are kept here as an archive of that process. 
 
+### Main Topics
+- Non-perturbative QCD
+- Dynamical chiral symmetry breaking
+- Axial anomaly and instanton physics
+- Hadron physics and effective field theories
+- Mathematical physics in nonlinear system
 
+### Publications
+- 1
+- 2
+- 3
+
+### Notes & Materials 
+
+Notes repository: 
+  👉[Link to Notes](https://github.com/YamatoSuda/Notes) 
+  (For details, please refer to the 'README.md' in the linked repository.)
+
+- **Analytical Mechanis**
+
+  Variational principles and classical dynamics.
+
+- **Quantum Field Theory**
+
+  Path integral formulation and spontaneous symmetry breaking.
+
+- **Instantons in QCD**
+
+  Detailed derivation of instanton solutions.
+
+- **Undergraduate Thesis**
+
+  Non-linear vortex living in two-dimensional
+
+- **Master Thesis**
+
+  *(preparing)*
+
+- **PhD Thesis**
+
+  *(preparing)*
+
+## Reading 
+Reflections on books and articles that influenced my thinking.
+
+*(preparing)*
+
+## Thoughts
+Notes on ideas, questions, and observations.
+
+*(preparing)*
+
+## Contact
+If you find something interesting or would like to get in touch,
+please feel free to contact me *(preparing)*.
 
