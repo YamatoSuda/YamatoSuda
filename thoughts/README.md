@@ -1,3 +1,5 @@
 ## Thoughts
 
-hoge
+Notes on ideas, questions, and observations.
+
+*(preparing)*
