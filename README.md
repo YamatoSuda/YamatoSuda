@@ -13,10 +13,7 @@ This page serves as a personal archives of my reserach, thoughts, and ongoing in
 
 ## [Reading](reading/README.md)
 
-## Thoughts
-Notes on ideas, questions, and observations.
-
-*(preparing)*
+## [Thoughts](thoughts/README.md)
 
 ## Contact
 If you find something interesting or would like to get in touch,
