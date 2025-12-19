@@ -2,13 +2,6 @@
 
 *Recording what I have studied, thought, and learned.* 
 
-#### Table of Contents
-- About
-- Research (Physics)
-- Reading 
-- Thoughts
-- Contact
-
 ## About
 I studied theoretical physics, focusing on non-perturbative aspect of QCD, such as dynamical chiral symmetry breaking and the axial anomaly.
 
