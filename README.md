@@ -11,10 +11,7 @@ This page serves as a personal archives of my reserach, thoughts, and ongoing in
 
 ## [Research](research/README.md)
 
-## Reading 
-Reflections on books and articles that influenced my thinking.
-
-*(preparing)*
+## [Reading](reading/README.md)
 
 ## Thoughts
 Notes on ideas, questions, and observations.
