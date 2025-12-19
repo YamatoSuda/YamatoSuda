@@ -16,7 +16,7 @@ This page serves as a personal archives of my reserach, thoughts, and ongoing in
 
 - Affiliation: [Nuclear Hadron Physics Group in Science Tokyo](http://www.th.phys.titech.ac.jp/Nuclth/jido/Top_page.html)
 
-## Research (Physics) 
+## [Research](research/README.md)
 
 Physics has shaped the way I think and approach problems. The materials below are part of my academic background and are kept here as an archive of that process. 
 
