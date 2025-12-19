@@ -1,13 +1,20 @@
 # Yamato Suda
 
-*Recording what I have studied, thought, and learned.* 
+*勉強したこと、考えたことを記録しています。*
+
+*Recording what I have studied and thought.* 
 
 ## About
+
+理論物理学、特に量子色力学(QCD)の非摂動的側面に興味を持って研究してました。
+
 I studied theoretical physics, focusing on non-perturbative aspect of QCD, such as dynamical chiral symmetry breaking and the axial anomaly.
+
+このページは、研究内容や考えていること、今現在興味を持っていることなどを書いておく物置です。
 
 This page serves as a personal archives of my reserach, thoughts, and ongoing intellectual interests. 
 
-- Affiliation: [Nuclear Hadron Physics Group in Science Tokyo](http://www.th.phys.titech.ac.jp/Nuclth/jido/Top_page.html)
+## [Background](background/README.md)
 
 ## [Research](research/README.md)
 
