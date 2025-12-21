@@ -9,10 +9,11 @@ Physics has shaped the way I think and approach problems. The materials below ar
 - Hadron physics and effective field theories
 - Mathematical physics in nonlinear system
 
-### Publications
-- 1
-- 2
-- 3
+### Publications (peer-reviewed)
+- 1 ["Pion properties in isospin-asymmetric nuclear matter using in-medium chiral perturbation theory"](https://doi.org/10.1103/dm6q-myv7), Phys. Rev. C 112, 065202 (2025).
+- 2 ["Different scenarios of dynamical chiral symmetry breaking in the interacting instanton liquid model via flavor symmetry breaking"](https://doi.org/10.1103/ddyf-s65h), Phys. Rev. D 112, 034011 (2025).
+- 3 ["Possible scenario of dynamical chiral symmetry breaking in the interacting instanton liquid model"](https://doi.org/10.1103/PhysRevD.110.014037), Phys. Rev. D 110, 014037 (2024).
+- 4 ["Mock-integrability and stable solitary vortices"](https://doi.org/10.1016/j.chaos.2022.112782), Chaos, Solitons & Fractals, 165, 1, 112782 (2022).
 
 ### Notes & Materials 
 
